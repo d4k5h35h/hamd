@@ -2,7 +2,7 @@ const heart = [];
 let a = 0;
 
 function setup() {
-  createCanvas(displayWidth, displayHeight);
+  createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
